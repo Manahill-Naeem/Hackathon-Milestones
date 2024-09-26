@@ -29,7 +29,7 @@ form.addEventListener('submit', (event: Event) => {
     <p contenteditable="true">${experience}</p>
 
     <h3>Skills</h3>
-    <p tcontenteditable="true">${skills}</p>
+    <p contenteditable="true">${skills}</p>
     `;
 
     //Display generated resume
